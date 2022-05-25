@@ -1,5 +1,5 @@
 {
-  "name": "@icedesign/ice-antd-scaffold",
+  "name": "@formily-examples/react-examples",
   "version": "0.1.0",
   "description": "Ant Design and icejs scaffold, use TypeScript.",
   "dependencies": {
